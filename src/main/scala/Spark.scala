@@ -7,7 +7,7 @@ import org.apache.spark.rdd.RDD
  object spark {
   def main (args: Array[String]) = {
 
-     val conf new SparkConf().setAppName("Assignement 3")
+     val conf = new SparkConf().setAppName("Assignement 3")
      val sc = new SparkContext(conf)
 
 
