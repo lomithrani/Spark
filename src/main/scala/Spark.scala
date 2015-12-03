@@ -1,6 +1,9 @@
 package main.scala
 import org.apache._
-import org.apache.spark.rdd.RDD
+import org.apache.spark.rdd
+import org.apache.spark.SparkContext
+import org.apache.spark.SparkContext._
+import org.apache.spark.SparkConf
 /**
   * Created by Louis on 02/12/2015.
   */
