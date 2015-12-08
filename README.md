@@ -2,4 +2,6 @@
 Assignment3
 
 
-[Part1](https://github.com/lomithrani/Spark/blob/master/Spark.scala)
+[Build.sbt](https://github.com/lomithrani/Spark/blob/master/build.sbt)
+
+[Part1 Scala file](https://github.com/lomithrani/Spark/blob/master/Spark.scala)
