@@ -20,4 +20,5 @@ Assignment3
 >Using either DataFrames or RDDs, export a CSV file that contains the average of crimes per day per districts.
 
 [Same Scala](https://github.com/lomithrani/Spark/blob/master/Spark.scala)
+
 [out.csv](https://github.com/lomithrani/Spark/blob/master/out.csv/part-00000)
